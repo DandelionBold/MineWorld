@@ -190,6 +190,7 @@ generate_structures = true
 
 ## 📚 Documentation
 
+- **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to game development
 - [Planning & Roadmap](docs/planning/overall.md) - Long-term vision
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
 - [Modding Guide](#) *(Coming Soon)*
