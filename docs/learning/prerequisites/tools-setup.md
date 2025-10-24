@@ -1,5 +1,7 @@
 # Tools & Setup - Development Environment
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md) > [Tools & Setup](tools-setup.md)
+
 Setting up your development environment for MineWorld game development.
 
 ## 🛠️ Required Tools
@@ -226,4 +228,9 @@ git config --global user.email "your.email@example.com"
 
 ---
 
-**Ready to start coding? Head to [v0.1 Learning Guide](v0.1/what-you-will-learn.md)!**
+## 📖 Navigation
+
+**Previous**: [Game Design Concepts](game-design-concepts.md)  
+**Next**: [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)
+
+**Ready to start coding? Head to [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)!**

@@ -1,5 +1,7 @@
 # MineWorld
 
+**Navigation**: [MineWorld](README.md)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-9.0-purple.svg)](https://dotnet.microsoft.com/)
 [![Engine](https://img.shields.io/badge/Engine-BlockCore-green.svg)](https://github.com/DandelionBold/BlockCore)
@@ -36,9 +38,9 @@ MineWorld is an infinite-world sandbox game where players can explore, build, an
 
 ### Download
 
-- **Windows**: [Download MineWorld-v0.1-Windows.zip](#) *(Coming Soon)*
-- **Linux**: [Download MineWorld-v0.1-Linux.tar.gz](#) *(Coming Soon)*
-- **macOS**: [Download MineWorld-v0.1-macOS.dmg](#) *(Coming Soon)*
+- **Windows**: [Download MineWorld-v0.1-Windows.zip](releases/v0.1/MineWorld-v0.1-Windows.zip) *(Available after v0.1 release)*
+- **Linux**: [Download MineWorld-v0.1-Linux.tar.gz](releases/v0.1/MineWorld-v0.1-Linux.tar.gz) *(Available after v0.1 release)*
+- **macOS**: [Download MineWorld-v0.1-macOS.dmg](releases/v0.1/MineWorld-v0.1-macOS.dmg) *(Available after v0.1 release)*
 
 ### System Requirements
 
@@ -193,8 +195,8 @@ generate_structures = true
 - **🎓 Learning Path**: [Comprehensive guides](docs/learning/README.md) for developers transitioning from enterprise development to game development
 - [Planning & Roadmap](docs/planning/overall.md) - Long-term vision
 - [v0.1 Development Plan](docs/planning/v0.1.md) - Current milestone
-- [Modding Guide](#) *(Coming Soon)*
-- [Server Administration](#) *(Coming Soon)*
+- [Modding Guide](docs/modding/README.md) - Complete modding documentation
+- [Server Administration](docs/server/README.md) - Server setup and management
 
 ---
 
@@ -205,11 +207,32 @@ Create your own content using the official SDK tools:
 - [**MineWorld-SDK**](https://github.com/DandelionBold/MineWorld-SDK) - Toolkit for creating mods, packs, and plugins
 - [**BlockCore-SDK**](https://github.com/DandelionBold/BlockCore-SDK) - Advanced engine extensions
 
+---
+
+## 🌟 Related Projects
+
+### Core Dependencies
+- **[BlockCore](https://github.com/DandelionBold/BlockCore)** - Game engine powering MineWorld
+  - Rendering, physics, and world systems
+  - Plugin architecture and networking
+  - [Engine Documentation](https://github.com/DandelionBold/BlockCore/blob/main/docs/learning/README.md)
+
+### Development Tools
+- **[MineWorld-SDK](https://github.com/DandelionBold/MineWorld-SDK)** - Game-specific modding toolkit
+  - Content creation tools
+  - Mod templates and examples
+  - [Modding Guide](https://github.com/DandelionBold/MineWorld-SDK/blob/main/docs/learning/README.md)
+
+- **[BlockCore-SDK](https://github.com/DandelionBold/BlockCore-SDK)** - Engine-level extension toolkit
+  - Plugin development tools
+  - Advanced engine modifications
+  - [SDK Documentation](https://github.com/DandelionBold/BlockCore-SDK/blob/main/docs/learning/README.md)
+
 ### Popular Mods
 
-- Home Teleport Plugin *(Coming Soon)*
-- Minimap Mod *(Coming Soon)*
-- High-Res Texture Pack *(Coming Soon)*
+- Home Teleport Plugin *(Planned)*
+- Minimap Mod *(Planned)*
+- High-Res Texture Pack *(Planned)*
 
 ---
 
@@ -230,7 +253,7 @@ Create your own content using the official SDK tools:
 We welcome contributions! Whether you're fixing bugs, adding features, or creating content:
 
 1. Check [open issues](https://github.com/DandelionBold/MineWorld/issues)
-2. Read CONTRIBUTING.md *(Coming Soon)*
+2. Read [CONTRIBUTING.md](CONTRIBUTING.md)
 3. Submit pull requests
 
 ### Development Guidelines
@@ -263,8 +286,8 @@ MineWorld is dual-licensed:
 ## 💬 Community
 
 - GitHub Issues: Bug reports and feature requests
-- Discussions: Questions and community chat *(Coming Soon)*
-- Discord: *(Coming Soon)*
+- Discussions: Questions and community chat
+- Discord: Community server
 
 ---
 
@@ -278,6 +301,10 @@ Special thanks to:
 - The voxel game community
 
 ---
+
+## 📖 Navigation
+
+**Next**: [Learning Path](docs/learning/README.md) | [Planning Documentation](docs/planning/README.md)
 
 **Explore. Build. Survive. Welcome to MineWorld.**
 

@@ -1,5 +1,7 @@
 # Glossary - Game Development Terminology
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Reference](glossary.md)
+
 Essential terms for MineWorld development, explained for enterprise developers.
 
 ## A
@@ -313,5 +315,10 @@ Essential terms for MineWorld development, explained for enterprise developers.
 **RTS**: Real-Time Strategy
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [v0.1 Learning Guide](../v0.1/what-you-will-learn.md)  
+**Next**: [Game Design Patterns](game-design-patterns.md)
 
 **Need more terms? Check the [Game Design Patterns](game-design-patterns.md) for architectural concepts!**

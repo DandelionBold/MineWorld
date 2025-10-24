@@ -1,5 +1,7 @@
 # MineWorld Planning Documentation
 
+**Navigation**: [MineWorld](../README.md) > [Planning](README.md)
+
 This directory contains comprehensive planning and architectural documentation for the MineWorld game.
 
 ## 📑 Documentation Index
@@ -23,8 +25,8 @@ This directory contains comprehensive planning and architectural documentation f
 ### Future Versions
 
 - v0.2 Plan *(Coming after v0.1 completion)*
-- v0.3 Plan *(Coming Soon)*
-- v0.4 Plan *(Coming Soon)*
+- v0.3 Plan *(Planned)*
+- v0.4 Plan *(Planned)*
 
 ---
 
@@ -78,6 +80,11 @@ Both are built from this repository and share:
 - Save format
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Learning Documentation](../learning/README.md)  
+**Next**: [Overall Vision & Roadmap](overall.md)
 
 Last Updated: 2025-10-18
 

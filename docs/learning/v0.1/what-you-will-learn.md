@@ -1,5 +1,13 @@
 # v0.1 Learning Guide - Basic Game Functionality
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [v0.1 Learning Guide](what-you-will-learn.md)
+
+**Document Version**: 1.0  
+**Last Updated**: 2025-10-18  
+**Reading Time**: 30 minutes  
+**Difficulty**: Intermediate  
+**Prerequisites**: [Prerequisites Overview](../prerequisites/overview.md)
+
 Welcome to MineWorld v0.1! This guide will teach you the fundamental concepts needed to build a basic voxel game.
 
 ## 🎯 Learning Objectives
@@ -62,6 +70,8 @@ while (running) {
 - **Secondary Action**: Right-click (place blocks)
 - **Tool Selection**: Choosing which tool to use
 - **Range Checking**: Ensuring actions are within reach
+
+**Real Example**: MineWorld's interaction system is built on [BlockCore's](https://github.com/DandelionBold/BlockCore) physics engine, while the [MineWorld-SDK](https://github.com/DandelionBold/MineWorld-SDK) provides tools for creating custom interaction mods.
 
 ### 4. Inventory System
 **Enterprise Analogy**: Like database records, but for player items
@@ -293,5 +303,10 @@ while (running) {
 - [ ] Apply performance optimization techniques
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Tools & Setup](../prerequisites/tools-setup.md)  
+**Next**: [Glossary](../reference/glossary.md)
 
 **Ready to start coding? Begin with [Task 1: Game State Management](v0.1/task-1-game-state.md)!**

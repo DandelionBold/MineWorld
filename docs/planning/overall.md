@@ -1,5 +1,7 @@
 # MineWorld - Overall Vision & Roadmap
 
+**Navigation**: [MineWorld](../README.md) > [Planning](README.md) > [Overall Vision](overall.md)
+
 **Document Version**: 1.0  
 **Last Updated**: 2025-10-18  
 **Status**: Living Document
@@ -606,6 +608,11 @@ MineWorld is a **multi-year journey** to create a polished, moddable voxel sandb
 - [MineWorld-SDK Overall](https://github.com/DandelionBold/MineWorld-SDK/blob/main/docs/planning/overall.md)
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Planning Overview](README.md)  
+**Next**: [v0.1 Implementation Plan](v0.1.md)
 
 **Last Reviewed**: 2025-10-18  
 **Next Review**: After v0.1 completion

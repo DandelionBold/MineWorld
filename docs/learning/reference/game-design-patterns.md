@@ -1,5 +1,7 @@
 # Game Design Patterns - Common Patterns
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Reference](game-design-patterns.md)
+
 Essential game design patterns for MineWorld development, explained for enterprise developers.
 
 ## 🎮 Core Game Design Patterns
@@ -396,5 +398,10 @@ public class AuthoritativeServer {
 - Keep code organized
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Glossary](glossary.md)  
+**Next**: [Troubleshooting](troubleshooting.md)
 
 **Need help with specific patterns? Check the [Troubleshooting](troubleshooting.md) guide!**

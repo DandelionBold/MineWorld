@@ -1,5 +1,7 @@
 # Game Design Concepts - Fundamentals
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md) > [Game Design Concepts](game-design-concepts.md)
+
 Understanding these concepts is crucial for MineWorld development. We'll explain each from an enterprise developer's perspective.
 
 ## 🎮 Core Game Design Concepts
@@ -20,6 +22,8 @@ Action → Feedback → Reward → Motivation for Next Action
 - **Continuous Engagement**: Games keep players engaged continuously
 - **Immediate Feedback**: Every action has instant visual/audio feedback
 - **Intrinsic Motivation**: Players want to play, not forced to use
+
+**Real Example**: In MineWorld, the core loop is "Explore → Gather → Build → Repeat", powered by the [BlockCore engine's](https://github.com/DandelionBold/BlockCore) rendering and physics systems.
 - **Emotional Response**: Games evoke emotions, not just functionality
 
 ### 2. Player Psychology
@@ -277,4 +281,9 @@ Concept → Creation → Import → Integration → Testing → Release
 
 ---
 
-**Remember**: Game design is about creating experiences that players want to engage with. Focus on fun, engagement, and player satisfaction!**
+## 📖 Navigation
+
+**Previous**: [Prerequisites Overview](overview.md)  
+**Next**: [Tools & Setup](tools-setup.md)
+
+**Remember**: Game design is about creating experiences that players want to engage with. Focus on fun, engagement, and player satisfaction!

@@ -1,5 +1,7 @@
 # Prerequisites Overview - Game Development
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Prerequisites](overview.md)
+
 Before diving into MineWorld development, let's understand what you need to know and how it differs from enterprise development.
 
 ## 🎯 Your Background: Enterprise → Game Development
@@ -245,6 +247,15 @@ Before diving into MineWorld development, let's understand what you need to know
 - [ ] Know content creation pipeline
 - [ ] Apply performance optimization techniques
 
+**📚 Related Learning Guides**:
+- [MineWorld v0.1 Guide](../v0.1/what-you-will-learn.md) - Game implementation
+- [BlockCore v0.1 Guide](https://github.com/DandelionBold/BlockCore/blob/main/docs/learning/v0.1/what-you-will-learn.md) - Engine foundation concepts
+
 ---
 
-**Ready to start? Begin with [Game Design Concepts](prerequisites/game-design-concepts.md)!**
+## 📖 Navigation
+
+**Previous**: [Learning Overview](../README.md)  
+**Next**: [Game Design Concepts](game-design-concepts.md)
+
+**Ready to start? Begin with [Game Design Concepts](game-design-concepts.md)!**

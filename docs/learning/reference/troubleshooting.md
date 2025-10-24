@@ -1,5 +1,7 @@
 # Troubleshooting - Common Issues and Solutions
 
+**Navigation**: [MineWorld](../../README.md) > [Learning](../README.md) > [Reference](troubleshooting.md)
+
 Solutions to common problems encountered during MineWorld development.
 
 ## 🚨 Common Issues
@@ -538,5 +540,10 @@ public class ResourceStreamer {
 - Keep functions small and focused
 
 ---
+
+## 📖 Navigation
+
+**Previous**: [Game Design Patterns](game-design-patterns.md)  
+**Next**: [Back to Learning Overview](../README.md)
 
 **Still having issues? Check the [Game Design Patterns](game-design-patterns.md) for architectural solutions!**
